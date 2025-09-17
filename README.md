@@ -36,6 +36,8 @@ This README is written for reviewers and stakeholders who need **traceable, repe
 
 ## At a Glance
 
+![User Interface](dashboard.png)
+
 **Components**
 
 * `pull-request-extractor.py` — Extracts PRs for specified repos, including counts of commits/reviews and the PR description & URL.
